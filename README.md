@@ -1,4 +1,4 @@
-# 🚢 Titanic Data Analysis
+# 🚢 Titanic Survival Prediction
 
 ## 📌 Project Overview
 
